@@ -1,0 +1,13 @@
+{
+  "appId": "xyz.justsal.blox",
+  "appName": "Roblox",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}

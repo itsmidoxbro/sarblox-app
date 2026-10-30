@@ -1,0 +1,15 @@
+{
+  "name": "salblox-android",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "echo web files are in www/"
+  },
+  "dependencies": {
+    "@capacitor/android": "6.1.2",
+    "@capacitor/core": "6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "6.1.2"
+  }
+}
